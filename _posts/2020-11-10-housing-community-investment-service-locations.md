@@ -1,0 +1,153 @@
+---
+title: Housing & Community Investment Service Locations
+created: '2020-11-10T17:52:03.567683'
+modified: '2020-12-02T15:54:40.680916'
+state: active
+type: dataset
+tags:
+  - Additional Tenant
+  - Affordable Housing
+  - Affordable Housing Trust Fund Ahtf
+  - Annual Bill
+  - At Fault Evictions
+  - At Risk
+  - Billing And Collection
+  - Bonds
+  - Capital Improvement
+  - Cause Evictions
+  - Cdbg
+  - Change Of Terms Of Tenancy
+  - Chapter 15 Of Los Angeles Municipal Code
+  - Code
+  - Commissions
+  - Complaints
+  - Computer Literacy
+  - Condominium Conversion
+  - Consolidated Plan
+  - Covenant
+  - Cpra
+  - Cra
+  - Davis Bacon
+  - Density Bonus
+  - Disabled Tenant
+  - Dwp
+  - Educational Counseling
+  - Eligible Tenant
+  - Ellis Act Eviction
+  - Emergency Management
+  - Environmental Review
+  - Escrow Account
+  - Esg
+  - Esl
+  - Essential Services
+  - Exemptions
+  - Fair Housing
+  - Family Counseling
+  - Family Services
+  - Fees
+  - Financial Planning Assistance
+  - Foreclosure
+  - Foreclosure Evictions
+  - Franchise Tax Board Ftb
+  - Garland
+  - General Manager Hearing
+  - Government Order Eviction
+  - Handyworker
+  - Headquarter
+  - Healthy Homes
+  - High School Equivalency Preparation
+  - Home
+  - Homebuyer
+  - Homeless
+  - Homeownership
+  - Hopwa
+  - Housing Element
+  - Housing Loans
+  - Illegal Rent Increases
+  - Illegal Units
+  - Income Certification
+  - Income Tax Assistance
+  - Information Referrals
+  - Inspection
+  - Just And Reasonable Rent Increase
+  - Just Cause Evictions
+  - Land Use
+  - Landlord Rights
+  - Lead Hazard
+  - Leadership
+  - Legal Reasons For Eviction
+  - Liens
+  - Loss Of Laundry Facilities
+  - Loss Of Parking
+  - Managed Pipeline
+  - Mentoring
+  - Mobile Homes
+  - Mom And Pop Property
+  - New Generation Fund
+  - No Fault Evictions
+  - Nofa
+  - Notice To Quit Based On False And Deceptive Grounds
+  - Notice To Vacate
+  - Nsp
+  - Occupancy Monitoring
+  - Online Rental Payments
+  - Owner Occupied Eviction
+  - Parenting Classes
+  - Pay Off
+  - Permanent Supportive Housing
+  - Pre Employment Counseling
+  - Preservation
+  - Primary Renovation
+  - Property Management Training Program Pmtp
+  - Public Counter
+  - Purchase Assistance
+  - Qualified Tenant
+  - Rac
+  - Reap
+  - Reconveyance
+  - Reduction Of Housing Services
+  - Rehabilitation
+  - Release Of Escrow
+  - Relocation Assistance Fees
+  - Relocation Assistance Payment
+  - Rent Adjustment Commission
+  - Rent Control
+  - Rent Payment
+  - Rent Reduction
+  - Rent Registration Certificates
+  - Rent Stabilization Ordinance
+  - Rental Unit Registration
+  - Renters Rights
+  - Resident Manager
+  - Residential Hotel
+  - Residual Receipts
+  - Rfp
+  - Rfq
+  - Rso
+  - Scep
+  - Security Deposit Interest
+  - Subordinations
+  - Tax Credits
+  - Tenant Habitability Plan
+  - Tenant Landlord Law
+  - Tenant Manager
+  - Tenant Relocation Inspection Program Trip
+  - Tenant Rights
+  - Transfer Of Utilities
+  - Tutoring
+  - Ump
+  - Unit Count Determinations
+  - Unit Not Registered
+  - Unlawful Detainer Ud
+  - Urgent Repair Program Urp
+  - Utility Bill
+  - Vacancy
+  - Withdrawal Of Funds
+groups:
+  - Local Government
+csv_url: 'https://data.lacity.org/api/views/29cn-rph9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/29cn-rph9/rows.json?accessType=DOWNLOAD'
+layout: post
+
+---
+Locations of offices associated with the Los Angeles Housing and Community Investment Department which provide services to city residents.
