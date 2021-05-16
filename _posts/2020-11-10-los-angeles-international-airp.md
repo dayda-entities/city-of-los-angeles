@@ -1,19 +1,21 @@
 ---
-title: Los Angeles International Airport (LAX) - Closures
-created: '2020-11-10T17:52:07.354121'
-modified: '2020-12-02T15:55:04.114410'
+title: Los Angeles International Airport - Air Cargo Volume
+created: '2020-11-10T17:52:36.107931'
+modified: '2020-12-02T15:57:43.494738'
 state: active
 type: dataset
 tags:
-  - Construction Alerts
-  - Construction Closures
+  - Airport
+  - Cargo
+  - Carrier
+  - Flight
+  - Freight
   - Lax
-  - Road Closures
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/63kx-necw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/63kx-necw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/tx7r-x3hp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/tx7r-x3hp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Road closures around lax. Data changes over time based on the frequency of closures to lower or upper levels
+Tons of cargo that moved in and out through the Airport
