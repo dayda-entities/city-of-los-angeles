@@ -1,7 +1,7 @@
 ---
-title: Business Source Center Program Performance Objectives (Q4  04/18 - 03/19)
-created: '2020-11-10T17:52:16.186502'
-modified: '2020-12-02T15:55:46.082326'
+title: Business Source Center Program Performance Objectives (Q2  04/18 - 09/18)
+created: '2020-11-10T17:52:30.150765'
+modified: '2020-12-02T15:57:03.628785'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Program Performance
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/c9di-tijr/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/c9di-tijr/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/pt99-74gb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/pt99-74gb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
