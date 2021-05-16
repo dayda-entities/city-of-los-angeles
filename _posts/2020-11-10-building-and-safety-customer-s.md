@@ -1,7 +1,7 @@
 ---
-title: Building and Safety Customer Service Request
-created: '2020-11-10T17:52:15.558822'
-modified: '2020-12-02T15:55:42.490906'
+title: Building and Safety Customer Service Request (Closed)
+created: '2020-11-10T17:52:10.467688'
+modified: '2020-12-02T15:55:18.546058'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,8 @@ tags:
   - Safety
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/bsvt-chkv/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/bsvt-chkv/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/8qjh-sbs9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/8qjh-sbs9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
