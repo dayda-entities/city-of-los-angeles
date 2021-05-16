@@ -1,7 +1,7 @@
 ---
-title: Building and Safety Code Enforcement Case (Closed)
-created: '2020-11-10T17:52:30.991183'
-modified: '2020-12-02T15:57:07.776441'
+title: Building and Safety Code Enforcement Case
+created: '2020-11-10T17:52:04.370312'
+modified: '2020-12-02T15:54:46.354649'
 state: active
 type: dataset
 tags:
@@ -25,8 +25,8 @@ tags:
   - Violation
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/q3qu-98vb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/q3qu-98vb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/2uz8-3tj3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/2uz8-3tj3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
