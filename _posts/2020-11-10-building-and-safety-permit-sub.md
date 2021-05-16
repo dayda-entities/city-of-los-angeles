@@ -1,14 +1,14 @@
 ---
-title: Building and Safety Permit Submitted from 2010 to Now
-created: '2020-11-10T17:52:17.226563'
-modified: '2020-12-02T15:55:52.475509'
+title: Building and Safety Permit Submitted before 2010
+created: '2020-11-10T17:52:22.218853'
+modified: '2020-12-02T15:56:17.090046'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/ct5r-6sgd/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/ct5r-6sgd/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/giv9-aeqf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/giv9-aeqf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
