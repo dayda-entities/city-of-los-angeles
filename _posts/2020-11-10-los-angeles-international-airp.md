@@ -1,20 +1,16 @@
 ---
-title: Los Angeles International Airport - Flight Operations By Month
-created: '2020-11-10T17:52:13.690230'
-modified: '2020-12-02T15:55:34.414975'
+title: Los Angeles International Airport - Terminal Concession Locations
+created: '2020-11-10T17:52:25.169985'
+modified: '2020-12-02T15:56:33.540746'
 state: active
 type: dataset
 tags:
-  - Airport
-  - Carrier
-  - Flight
-  - Lax
-  - Terminal
+  - Airport Concessions Tenant Lax
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/ajiv-uc63/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/ajiv-uc63/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/j6u4-c4yh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/j6u4-c4yh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Number of Flights That Occurred at the Airport
+Export of Concession information found in LAX content management system with generic information of available concessions at LAX.
