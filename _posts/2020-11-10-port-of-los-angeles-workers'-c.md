@@ -1,16 +1,16 @@
 ---
-title: Port of Los Angeles - Workers' Compensation Light Duty Hours
-created: '2020-11-10T17:52:22.777771'
-modified: '2020-12-02T15:56:19.339658'
+title: Port of Los Angeles - Workers' Compensation Benefits Expenditures
+created: '2020-11-10T17:52:37.132301'
+modified: '2020-12-02T15:57:50.003896'
 state: active
 type: dataset
 tags:
-  - Port
+  - Risk Management
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/gvpf-vb3s/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/gvpf-vb3s/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/v3my-p6u5/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/v3my-p6u5/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Light Duty Hours Per Pay Period
+Benefits Expenditures
