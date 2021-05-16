@@ -1,9 +1,9 @@
 ---
 title: >-
-  WorkSource Center Program Performance Outcomes for PY 17/18   July 1, 2017 -
-  December 31, 2017
-created: '2020-11-10T17:52:38.545126'
-modified: '2020-12-02T15:57:59.160185'
+  WorkSource Center Program Performance Outcomes for PY 16/17   July 1, 2016 -
+  June 30, 2017
+created: '2020-11-10T17:52:10.298230'
+modified: '2020-12-02T15:55:17.847563'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Worksource
 groups:
   - Local Government
-csv_url: 'https://data.lacity.org/api/views/x5zv-ey8w/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.lacity.org/api/views/x5zv-ey8w/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.lacity.org/api/views/8qhs-wikn/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.lacity.org/api/views/8qhs-wikn/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
